@@ -1,0 +1,11 @@
+-- CLAUSE -> Clause ka basically matlab hota hai Conditions matlab ye hume batata hai ki hume data ke saath kya krna hai 
+
+-- 1) SELECT Clause			
+-- 2) FROM Clause 
+-- 3) WHERE Clause 
+-- 4) GROUP BY Clause
+-- 5  HAVING Clause
+-- 6) ORDER BY Clause
+-- 7) LIMIT CLAUSE
+-- 8) TOP clause 
+-- 9) DISTINCT Clause
