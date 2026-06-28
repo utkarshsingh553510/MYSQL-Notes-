@@ -16,30 +16,30 @@ Whether you're preparing for Data Analyst interviews or learning SQL from scratc
 
 # 📚 Topics Covered
 
-| No. | Topic                          |
-| --- | ------------------------------ |
-| 01  | Basics                         |
-| 02  | Data Types                     |
-| 03  | Constraints                    |
-| 04  | SQL Clauses                    |
-| 05  | SELECT Statement               |
-| 06  | DISTINCT                       |
-| 07  | WHERE Clause                   |
-| 08  | LIKE Statement                 |
-| 09  | GROUP BY                       |
-| 10  | ORDER BY                       |
-| 11  | HAVING Clause                  |
-| 12  | LIMIT & Aliasing               |
-| 13  | JOINS                          |
-| 14  | UNION                          |
-| 15  | String Functions               |
-| 16  | CASE Statements & Subqueries   |
-| 17  | Window Functions               |
-| 18  | Common Table Expressions (CTE) |
-| 19  | Temporary Tables               |
-| 20  | Stored Procedures              |
-| 21  | Triggers                       |
-| 22  | Events                         |
+| No. | Topic |
+|-----|-------|
+| 01 | [Basics](01_Basics.sql) |
+| 02 | [Data Types](02_DATATYPES.sql) |
+| 03 | [Constraints](03_Constraints.sql) |
+| 04 | [SQL Clauses](04_Clauses.sql) |
+| 05 | [SELECT Statement](05_SELECT.sql) |
+| 06 | [DISTINCT](06_Distinct.sql) |
+| 07 | [WHERE Clause](07_Where.sql) |
+| 08 | [LIKE Statement](08_LIKE_Statement.sql) |
+| 09 | [GROUP BY](09_GroupBy.sql) |
+| 10 | [ORDER BY](10_OrderBY.sql) |
+| 11 | [HAVING Clause](11_Having_Clause.sql) |
+| 12 | [LIMIT & Aliasing](12_LIMIT_and_Aliasing.sql) |
+| 13 | [JOINS](13_JOINS.sql) |
+| 14 | [UNION](14_UNION.sql) |
+| 15 | [String Functions](15_String_Functions.sql) |
+| 16 | [CASE Statements & Subqueries](16_Case_statements_and_SUBQUERIES.sql) |
+| 17 | [Window Functions](17_Window_Function.sql) |
+| 18 | [Common Table Expressions (CTE)](18_CTE.sql) |
+| 19 | [Temporary Tables](19_Temporary_Tables.sql) |
+| 20 | [Stored Procedures](20_Stored_Procedures.sql) |
+| 21 | [Triggers](21_TRIGGERS.sql) |
+| 22 | [Events](22_Events.sql) |
 
 ---
 
