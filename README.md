@@ -157,7 +157,8 @@ MySQL-Notes
 [www.linkedin.com/in/utkarsh-singh-ds](http://www.linkedin.com/in/utkarsh-singh-ds)
 
 **GitHub**
-github.com/utkarshsingh553510
+
+https://github.com/utkarshsingh553510
 
 ---
 
