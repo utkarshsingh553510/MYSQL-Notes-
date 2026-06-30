@@ -1,5 +1,11 @@
 # 🐬 MySQL for Data Analytics
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-6A5ACD?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Learning-blue?style=for-the-badge)
+![Self Written](https://img.shields.io/badge/Self-Written%20Notes-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 > A comprehensive collection of **MySQL notes**, **practice queries**, and **real-world datasets** designed for aspiring **Data Analysts**, **Business Analysts**, and **Data Science** enthusiasts.
 
 ---
